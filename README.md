@@ -36,7 +36,7 @@ Semana | Tema                                 | Código |
 | 5    | Sísmica de Reflexão : Correção de NMO e seção sísmica   | |
 | 6    | Sísmica de Reflexão : Atributos sísmicos | |
 | 7    | Perfilagem de poço e cálculos petrofísicos  | |
-| 8    | Modelagem Manetotelúrico | |
+| 8    | Modelagem Magnetotelúrico | |
 
 
 ## Referências bibliográficas
