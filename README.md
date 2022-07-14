@@ -29,7 +29,7 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
-| 1    | Ondas sísmicas e o PREM  | |
+| 1    | Ondas sísmicas e o PREM  |[notebook](https://github.com/andrelreis/geofisica2/blob/main/Content/aula_1/1.%20Reference_Model_Earth.ipynb) |
 | 2    | Propagação de ondas: reflexão e refração  | |
 | 3    | Sísmica de Reflexão : Arranjos de campo | |
 | 4    | Sísmica de Reflexão : CMP gather |  |
