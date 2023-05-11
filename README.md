@@ -5,7 +5,7 @@ Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Uni
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-> **Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
+! **Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
@@ -28,7 +28,7 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 ## Conteúdo didático computacional
 
-> **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
+! **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
 - [x] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*)
 
