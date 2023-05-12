@@ -30,8 +30,7 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [x] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*)
-
+- [x] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*)['Preliminary_Reference_Model_Earth.ipynb'](https://github.com/andrelreis/geofisica2/blob/2023/1/Content/aula_1/Preliminary_Reference_Model_Earth.ipynb)
 
 ## Referências bibliográficas
 
