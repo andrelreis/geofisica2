@@ -32,6 +32,8 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 - [x] Ondas sísmicas e PREM (*Preliminary_Reference_Model_Earth*) [[`Preliminary_Reference_Model_Earth.ipynb`](https://github.com/andrelreis/geofisica2/blob/2023/1/Content/aula_1/Preliminary_Reference_Model_Earth.ipynb)]
 
+- [x] A Onda estacionária e seus harmônicos[[`Standing_wave.ipynb`]()]
+
 ## Referências bibliográficas
 
 * Kearey, P., M. Brooks, and I. Hill, 2002, *An Introduction to Geophysical Exploration*, 3 edition., Wiley-Blackwell, Malden, MA.
