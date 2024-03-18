@@ -30,11 +30,11 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [x] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*) [[`Preliminary_Reference_Model_Earth.ipynb`](https://github.com/andrelreis/geofisica2/blob/2023/1/Content/aula_1/Preliminary_Reference_Model_Earth.ipynb)]
+- [ ] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*) [[`Preliminary_Reference_Model_Earth.ipynb`]()]
 
-- [x] A Onda estacionária e seus harmônicos[[`Standing_wave.ipynb`](https://github.com/andrelreis/geofisica2/blob/2023/1/Content/aula_2/Standing_wave.ipynb)]
+- [ ] A Onda estacionária e seus harmônicos[[`Standing_wave.ipynb`]()]
 
-- [x] Simulação de uma propagação de onda acústica[[`Propagação_onda_acústica.ipynb`](https://github.com/andrelreis/geofisica2/blob/2023/1/Content/aula_3/1.%20Propaga%C3%A7%C3%A3o_onda_ac%C3%BAstica.ipynb)]
+- [ ] Simulação de uma propagação de onda acústica[[`Propagação_onda_acústica.ipynb`]()]
 
 ## Referências bibliográficas
 
