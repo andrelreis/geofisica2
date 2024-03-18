@@ -30,7 +30,9 @@ Versão oficial da ementa : [Geofísica 2](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [ ] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*) [[`Preliminary_Reference_Model_Earth.ipynb`]()]
+- [X] Ondas sísmicas e PREM (*Preliminary Reference Earth Model*) [[`Preliminary_Reference_Model_Earth.ipynb`]()]
+
+- [ ] Epicentros na América do Sul[[epicenter_south_america.ipynb]()] 
 
 - [ ] A Onda estacionária e seus harmônicos[[`Standing_wave.ipynb`]()]
 
